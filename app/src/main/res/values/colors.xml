@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--colores personales-->
+    <color name="fondo">#ffffff</color>
+    <color name="amarillo">#FFA500</color>
+    <color name="azul_oscuro">#0000ff</color>
+    <color name="blanco">#ffffff</color>
+    <color name="gris_claro">#cccccc</color>
+    <color name="gris_oscuro">#727072</color>
+    <color name="gris_solo">#dddddd</color>
+    <color name="naranja">#FFA500</color>
+    <color name="negro">#000000</color>
+    <color name="transparente">#00000000</color>
+    <color name="verde_limon">#00ff00</color>
+    <color name="rojo">#ff0000</color>
+    <color name="progress_bg">#727072</color>
+    <color name="progress_text">#ededed</color>
+    <color name="button_normal">#929392</color>
+    <color name="button_pressed">#c0c1c0</color>
+    <color name="dialog_divider">@android:color/black</color>
+
+    <!--android developers colors-->
+    <item name="celeste" type="color">#FF33B5E5</item>
+    <item name="purpura" type="color">#FFAA66CC</item>
+    <item name="verde_yerba" type="color">#FF99CC00</item>
+    <item name="naranja_claro" type="color">#FFFFBB33</item>
+    <item name="rojo_claro" type="color">#FFFF4444</item>
+    <item name="azul_claro" type="color">#FF0099CC</item>
+    <item name="purpura_oscuro" type="color">#FF9933CC</item>
+    <item name="verde_yerba2" type="color">#FF669900</item>
+    <item name="naranja_oscuro" type="color">#FFFF8800</item>
+    <item name="rojo_vivo" type="color">#FFCC0000</item>
+
+</resources>

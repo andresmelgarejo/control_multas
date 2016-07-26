@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SCM - Sistema de Control de Multas</string>
+
+
+    <!-- SplashScreen -->
+    <string name="lbl_version">Versión 1.0</string>
+    <string name="generic">(generic tag)</string>
+
+
+    <!-- MainActivity-->
+    <string name="msg_instructivo">Puede realizar la búsqueda por:\n > Número de CI\n > Número de Matrícula</string>
+    <string name="lbl_forma_busqueda">Seleccione forma de búsqueda:</string>
+    <string name="radio_ci_conductor">CI Conductor</string>
+    <string name="radio_nro_rua">Nro RUA</string>
+    <string name="hint_ci">Nro de cédula</string>
+    <string name="hint_rua">Nro de matrícula</string>
+    <string name="txt_column_name_concepto">Concepto</string>
+    <string name="txt_column_name_importe">Importe</string>
+
+
+</resources>
